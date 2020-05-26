@@ -1,1 +1,3 @@
 # PP2004f Git training
+- Bổ sung dòng: Thứ .. ngày .. tháng .. năm ..
+- Họ và tên: ...
