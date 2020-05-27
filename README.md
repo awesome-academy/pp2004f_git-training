@@ -10,4 +10,4 @@ ho ten phung trung hieu <checked>
 - Họ và tên:Luu Quang Ninh sua file
 
 Thu 4 ngay 27 thang 5 nam 2020
- HO va ten : Lai Dinh Tu
+ HO va ten : Lai Dinh Tun
